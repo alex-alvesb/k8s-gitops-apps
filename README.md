@@ -1,4 +1,4 @@
-# 🚀 Kubernetes GitOps Applications
+# 🖥️ Kubernetes GitOps Applications
 
 Este repositório contém **manifests Kubernetes de aplicações**, gerenciadas via **GitOps com Argo CD**, e faz parte de um projeto maior de **plataforma Kubernetes on-premise**.
 
